@@ -1,11 +1,11 @@
 # Contador interactivo con Flet
 
 **Biblioteca:** [Flet](https://flet.dev) (Python)
-**Autor:** _(escribe aquí tu nombre)_
+**Autor:** _Andres Felipe Freite Escobar_
 
 Aplicación mínima que muestra un contador en pantalla. Cada vez que el usuario presiona el botón **Sumar +1**, el número aumenta; el botón **Reiniciar** lo devuelve a cero. Está escrita con programación orientada a objetos (reto adicional).
 
-![Captura de la aplicación funcionando](capturas/captura.png)
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/26a2e901-a7d7-47d3-a259-229445b23df6" />
 
 ---
 
